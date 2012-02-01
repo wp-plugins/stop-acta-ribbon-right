@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Stop ACTA Ribbon
+Plugin Name: Stop ACTA Ribbon (Position left)
 Plugin URI: 
 Description: When activated, this plugin will put a Stop ACTA ribbon on the top right corner of your website.
-Author: Michael Lehner
+Author: Konjunktion
 Version: 1.0
 License: GPLv2
 Author URI: http://konjunktion.info
