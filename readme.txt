@@ -1,17 +1,17 @@
 === Stop ACTA Ribbon ===
-Contributors: Michael Lehner
+Contributors: Konjunktion
 Donate link: 
 Tags: acta
 Requires at Least: 2.6.0
 Tested Up To: 3.3.1
 Stable tag: 1.0
 
-Help stop Worlwide Consorship by putting a ribbon that says Stop ACTA on your WordPress site or network.
+Help stop Worlwide Consorship by putting a ribbon that says Stop ACTA in the top of the right corner of your WordPress site or network.
 
 == Description ==
 
 A black ribbon with the words "Stop ACTA" will be put on in the top right corner of your website, linking to the http://www.stopp-acta.info/ website.
-If you want to have a look on it, visit http://www-konjunktion.info.
+If you want to have a look on it, visit http://www.konjunktion.info.
 
 == Installation ==
 
